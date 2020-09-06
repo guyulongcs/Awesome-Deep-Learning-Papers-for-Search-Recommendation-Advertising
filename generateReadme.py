@@ -26,7 +26,7 @@ catalog_flag = 0
 for line in all_lines:
     if catalog_flag != 1:
         out_file.write(line)
-    if line.startswith("#"):
+    if line.startswith("##"):
         catalog_flag = 1
 
     if paper_class_flag == 1 and not line.startswith("*") and not line.startswith("#"):
