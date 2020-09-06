@@ -1,1 +1,1 @@
-# Awesome Deep Learning papers for Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR prediction, CVR prediction), Post Ranking, Transfer and Reinforcement Learning.
+## Awesome Deep Learning papers for Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR prediction, CVR prediction), Post Ranking, Transfer and Reinforcement Learning.
