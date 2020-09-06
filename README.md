@@ -1,5 +1,7 @@
 
 ### Embedding
+
+### Embedding
 * [*[Airbnb Embedding]  (Airbnb) (KDD 2018) Real-time Personalization using Embeddings for Search Ranking at Airbnb](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Embedding/%2A%5BAirbnb%20Embedding%5D%20%20%28Airbnb%29%20%28KDD%202018%29%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb.pdf) <br />
 * [*[PinSage] (Pinterest) (KDD 2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Embedding/%2A%5BPinSage%5D%20%28Pinterest%29%20%28KDD%202018%29%20Graph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf) <br />
 * [[Node2vec] (KDD 16) node2vec - Scalable Feature Learning for Networks](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Embedding/%5BNode2vec%5D%20%28KDD%2016%29%20node2vec%20-%20Scalable%20Feature%20Learning%20for%20Networks.pdf) <br />
@@ -30,6 +32,7 @@
 * [[GAttN] (Alibaba) (KDD 2019) Exact-K Recommendation via Maximal Clique Optimization](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Post-ranking/%5BGAttN%5D%20%28Alibaba%29%20%28KDD%202019%29%20Exact-K%20Recommendation%20via%20Maximal%20Clique%20Optimization.pdf) <br />
 * [[Value-based RL] (Alibaba) (WWW 2019) Value-aware Recommendation based on Reinforcement Profit Maximization](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Post-ranking/%5BValue-based%20RL%5D%20%28Alibaba%29%20%28WWW%202019%29%20Value-aware%20Recommendation%20based%20on%20Reinforcement%20Profit%20Maximization.pdf) <br />
 * [[SlateQ] (Google) (IJCAI 2019) SLATEQ - A Tractable Decomposition for Reinforcement Learning with Recommendation Sets](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Post-ranking/%5BSlateQ%5D%20%28Google%29%20%28IJCAI%202019%29%20SLATEQ%20-%20A%20Tractable%20Decomposition%20for%20Reinforcement%20Learning%20with%20Recommendation%20Sets.pdf) <br />
+* [[DPP] (Google) (CIKM 2018) Practical Diversified Recommendations on YouTube with Determinantal Point Processes](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Post-ranking/%5BDPP%5D%20%28Google%29%20%28CIKM%202018%29%20Practical%20Diversified%20Recommendations%20on%20YouTube%20with%20Determinantal%20Point%20Processes.pdf) <br />
 
 ### Ranking
 * [**[Youtube DNN] (Google) (RecSys 2016) Deep Neural Networks for YouTube Recommendations](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Ranking/%2A%2A%5BYoutube%20DNN%5D%20%28Google%29%20%28RecSys%202016%29%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
