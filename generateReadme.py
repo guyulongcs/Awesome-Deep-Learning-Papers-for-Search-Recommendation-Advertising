@@ -66,7 +66,7 @@ for one_dir in all_dir:
                 # out_file.write("* [" + ('.').join(one_file.split('.')[:-1]) + "]("+github_root 
                 #                + urllib.quote(one_file.strip())+") <br />\n")
                 out_file.write("* [" + ('.').join(one_file.split('.')[:-1]) + "]("+github_root + one_dir.strip()+"/"
-                               + one_file.strip()+") <br />\n")
+                               + urllib.quote(one_file.strip()) +") <br />\n")
                 if one_file.strip() in paper_map:
                     out_file.write(paper_map[one_file.strip()] + "\n")
 
@@ -84,9 +84,9 @@ for one_dir in all_dir:
                         # out_file.write("* [" + ('.').join(one_file_second.split('.')[:-1]) + "]("+github_root + urllib.quote(one_dir.strip())+"/"
                         #         + urllib.quote(one_dir_second.strip())+"/"
                         #        + urllib.quote(one_file_second.strip())+") <br />\n")
-                        out_file.write("* [" + ('.').join(one_file_second.split('.')[:-1]) + "]("+github_root 
-                                + one_dir_second.strip()+"/"
-                               + one_file_second.strip()+") <br />\n")
+                        out_file.write("* [" + ('.').join(one_file_second.split('.')[:-1]) + "]("+ github_root 
+                                + urllib.quote(one_dir_second.strip())+"/"
+                               + urllib.quote(one_file_second.strip())+") <br />\n")
 
 
 out_file.close()
