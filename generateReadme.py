@@ -54,7 +54,7 @@ for line in all_lines:
 
 github_root = "https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/"
 all_dir = os.listdir("./")
-all_dir.sort(reverse=sort_reverse)
+all_dir.sort()
 for one_dir in all_dir:
     if os.path.isdir(one_dir) and not one_dir.startswith('.'):
         out_file.write("\n## " + one_dir+"\n")
@@ -71,6 +71,7 @@ for one_dir in all_dir:
                 if one_file.strip() in paper_map:
                     out_file.write(paper_map[one_file.strip()] + "\n")
 
+        all_sub_files.sort(reverse=sort_reverse)
         for one_file in all_sub_files:
             one_file_2=os.path.join(one_dir, one_file)
             if os.path.isdir(one_file_2) and not one_file_2.startswith('.'):
