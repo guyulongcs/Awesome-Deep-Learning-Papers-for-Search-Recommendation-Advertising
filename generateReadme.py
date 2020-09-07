@@ -6,6 +6,9 @@ import urllib
 """ generate readme.md """
 __author__ = 'Yulong Gu'
 
+sort_reverse = True
+
+
 paper_class_map = {}
 paper_map = {}
 
@@ -51,14 +54,14 @@ for line in all_lines:
 
 github_root = "https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/"
 all_dir = os.listdir("./")
-all_dir.sort()
+all_dir.sort(reverse=sort_reverse)
 for one_dir in all_dir:
     if os.path.isdir(one_dir) and not one_dir.startswith('.'):
         out_file.write("\n## " + one_dir+"\n")
         if one_dir.strip() in paper_class_map:
             out_file.write(paper_class_map[one_dir.strip()] + "\n")
         all_sub_files = os.listdir(one_dir)
-        all_sub_files.sort()
+        all_sub_files.sort(reverse=sort_reverse)
         for one_file in all_sub_files:
             # print("one_file:%s, is_dir:%d" % (one_file, os.path.isdir(os.path.join(one_dir, one_file))))
             one_file_2=os.path.join(one_dir, one_file)
@@ -75,7 +78,7 @@ for one_dir in all_dir:
                 # print("one_dir_second:",one_dir_second)
                 out_file.write("\n#### " + one_file +"\n")
                 all_sub_files_second = os.listdir(one_dir_second)
-                all_sub_files_second.sort()
+                all_sub_files_second.sort(reverse=sort_reverse)
                 for one_file_second in all_sub_files_second:
                     # print("one_file_second:",one_file_second)
                     if not os.path.isdir(one_file_second) and not one_file_second.startswith('.'):
