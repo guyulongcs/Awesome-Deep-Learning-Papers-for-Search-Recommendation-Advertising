@@ -6,7 +6,7 @@ import urllib
 """ generate readme.md """
 __author__ = 'Yulong Gu'
 
-sort_reverse = True
+sort_reverse = False
 
 
 paper_class_map = {}
