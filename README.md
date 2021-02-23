@@ -204,6 +204,13 @@
 
 ## Corporation
 
+
+#### JDRecSys
+* [2020 (JD) (CIKM) *[DMT] Deep Multifaceted Transformers for Multi-objective Ranking in Large-Scale E-commerce Recommender Systems](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/JDRecSys/2020%20%28JD%29%20%28CIKM%29%20%2A%5BDMT%5D%20Deep%20Multifaceted%20Transformers%20for%20Multi-objective%20Ranking%20in%20Large-Scale%20E-commerce%20Recommender%20Systems.pdf) <br />
+* [2020 (JD) (CIKM) *[DecGCN] Decoupled Graph Convolution Network for Inferring Substitutable and Complementary Items](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/JDRecSys/2020%20%28JD%29%20%28CIKM%29%20%2A%5BDecGCN%5D%20Decoupled%20Graph%20Convolution%20Network%20for%20Inferring%20Substitutable%20and%20Complementary%20Items.pdf) <br />
+* [2020 (JD) (SIGIR) [NICF] Neural Interactive Collaborative Filtering](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/JDRecSys/2020%20%28JD%29%20%28SIGIR%29%20%5BNICF%5D%20Neural%20Interactive%20Collaborative%20Filtering.pdf) <br />
+* [2020 (JD) (WSDM) [HUP] Hierarchical User Profiling for E-commerce Recommender Systems](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/JDRecSys/2020%20%28JD%29%20%28WSDM%29%20%5BHUP%5D%20Hierarchical%20User%20Profiling%20for%20E-commerce%20Recommender%20Systems.pdf) <br />
+
 #### TaobaoSearch
 * [2018 (Alibaba) (IJCAI) Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/TaobaoSearch/2018%20%28Alibaba%29%20%28IJCAI%29%20Globally%20Optimized%20Mutual%20Influence%20Aware%20Ranking%20in%20E-Commerce%20Search.pdf) <br />
 * [2018 (Alibaba) (IJCAI) [JUMP] JUMP - A Joint Predictor for User Click and Dwell Time](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/TaobaoSearch/2018%20%28Alibaba%29%20%28IJCAI%29%20%5BJUMP%5D%20JUMP%20-%20A%20Joint%20Predictor%20for%20User%20Click%20and%20Dwell%20Time.pdf) <br />
