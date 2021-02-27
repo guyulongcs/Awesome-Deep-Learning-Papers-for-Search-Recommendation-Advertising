@@ -261,8 +261,3 @@
 * [2020 (Alibaba) (WWW) [MARN] Adversarial Multimodal Representation Learning for Click-Through Rate Prediction](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/TaobaoSearch/2020%20%28Alibaba%29%20%28WWW%29%20%5BMARN%5D%20Adversarial%20Multimodal%20Representation%20Learning%20for%20Click-Through%20Rate%20Prediction.pdf) <br />
 * [2021 (Alibaba) (AAAI) [ANPP] Attentive Neural Point Processes for Event Forecasting](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/TaobaoSearch/2021%20%28Alibaba%29%20%28AAAI%29%20%5BANPP%5D%20Attentive%20Neural%20Point%20Processes%20for%20Event%20Forecasting.pdf) <br />
 * [2021 (Alibaba) (AAAI) [ES-DFM] Capturing Delayed Feedback in Conversion Rate Prediction via Elapsed-Time Sampling](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/TaobaoSearch/2021%20%28Alibaba%29%20%28AAAI%29%20%5BES-DFM%5D%20Capturing%20Delayed%20Feedback%20in%20Conversion%20Rate%20Prediction%20via%20Elapsed-Time%20Sampling.pdf) <br />
-
-## ML
-
-#### Transformer
-* [2020 (Google) (Arxiv) [RealFormer] RealFormer - Transformer Likes Residual Attention](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/ML/Transformer/2020%20%28Google%29%20%28Arxiv%29%20%5BRealFormer%5D%20RealFormer%20-%20Transformer%20Likes%20Residual%20Attention.pdf) <br />
