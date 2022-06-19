@@ -1,10 +1,5 @@
 ## Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR prediction, CVR prediction), Post Ranking, Transfer and Reinforcement Learning.
 
-## 0_New_Papers
-* [2021 (Alibaba) (CIKM) [ZEUS] Self-Supervised Learning on Users’ Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/0_New_Papers/2021%20%28Alibaba%29%20%28CIKM%29%20%5BZEUS%5D%20Self-Supervised%20Learning%20on%20Users%E2%80%99%20Spontaneous%20Behaviors%20for%20Multi-Scenario%20Ranking%20in%20E-commerce.pdf) <br />
-* [2021 (Google) (CIKM) Self-supervised Learning for Large-scale Item Recommendations](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/0_New_Papers/2021%20%28Google%29%20%28CIKM%29%20Self-supervised%20Learning%20for%20Large-scale%20Item%20Recommendations.pdf) <br />
-* [2022 (Alibaba) (WSDM) Modeling Users’ Contextualized Page-wise Feedback for Click-Through Rate Prediction in E-commerce Search](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/0_New_Papers/2022%20%28Alibaba%29%20%28WSDM%29%20Modeling%20Users%E2%80%99%20Contextualized%20Page-wise%20Feedback%20for%20Click-Through%20Rate%20Prediction%20in%20E-commerce%20Search.pdf) <br />
-
 ## 1_Embedding
 * [2013 (Google) (NIPS) [Word2vec] Distributed Representations of Words and Phrases and their Compositionality](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/1_Embedding/2013%20%28Google%29%20%28NIPS%29%20%5BWord2vec%5D%20Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) <br />
 * [2014 (KDD) [DeepWalk]  DeepWalk - online learning of social representations](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/1_Embedding/2014%20%28KDD%29%20%5BDeepWalk%5D%20%20DeepWalk%20-%20online%20learning%20of%20social%20representations.pdf) <br />
