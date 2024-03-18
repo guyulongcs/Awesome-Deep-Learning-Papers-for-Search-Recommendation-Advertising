@@ -40,6 +40,10 @@
 * [2022 (Alibaba) (CIKM) [CLE-QR] Query Rewriting in TaoBao Search](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/01_Matching/2022%20%28Alibaba%29%20%28CIKM%29%20%5BCLE-QR%5D%20Query%20Rewriting%20in%20TaoBao%20Search.pdf) <br />
 * [2022 (Alibaba) **(CIKM) [MOPPR] Multi-Objective Personalized Product Retrieval in Taobao Search](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/01_Matching/2022%20%28Alibaba%29%20%2A%2A%28CIKM%29%20%5BMOPPR%5D%20Multi-Objective%20Personalized%20Product%20Retrieval%20in%20Taobao%20Search.pdf) <br />
 
+#### ANN
+* [2017 (Arxiv) (Meta) [FAISS] Billion-scale similarity search with GPUs](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/01_Matching/ANN/2017%20%28Arxiv%29%20%28Meta%29%20%5BFAISS%5D%20Billion-scale%20similarity%20search%20with%20GPUs.pdf) <br />
+* [2020 (PAMI) [HNSW] Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/01_Matching/ANN/2020%20%28PAMI%29%20%5BHNSW%5D%20Efficient%20and%20Robust%20Approximate%20Nearest%20Neighbor%20Search%20Using%20Hierarchical%20Navigable%20Small%20World%20Graphs.pdf) <br />
+
 #### Graph_Neural_Networks
 * [2017 (ICLR) [GCN] Semi-Supervised Classification with Graph Convolutional Networks](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/01_Matching/Graph_Neural_Networks/2017%20%28ICLR%29%20%5BGCN%5D%20Semi-Supervised%20Classification%20with%20Graph%20Convolutional%20Networks.pdf) <br />
 * [2018 (ICLR) [GAT] Graph Attention Networks](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/01_Matching/Graph_Neural_Networks/2018%20%28ICLR%29%20%5BGAT%5D%20Graph%20Attention%20Networks.pdf) <br />
