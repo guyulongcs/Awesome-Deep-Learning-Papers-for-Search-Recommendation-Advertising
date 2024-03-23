@@ -342,6 +342,11 @@
 * [2020 (Bytedance) (KDD) [RAM] Jointly Learning to Recommend and Advertise](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/10_Reinforcement_Learning/2020%20%28Bytedance%29%20%28KDD%29%20%5BRAM%5D%20Jointly%20Learning%20to%20Recommend%20and%20Advertise.pdf) <br />
 * [2020 (JD) (SIGIR) [NICF] Neural Interactive Collaborative Filtering](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/10_Reinforcement_Learning/2020%20%28JD%29%20%28SIGIR%29%20%5BNICF%5D%20Neural%20Interactive%20Collaborative%20Filtering.pdf) <br />
 
+## 11_Multi_Modal
+* [2020 (Google) (ICLR) [ALBERT] ALBERT - A Lite BERT for Self-supervised Learning of Language Representations](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/11_Multi_Modal/2020%20%28Google%29%20%28ICLR%29%20%5BALBERT%5D%20ALBERT%20-%20A%20Lite%20BERT%20for%20Self-supervised%20Learning%20of%20Language%20Representations.pdf) <br />
+* [2021 (Google) (ICLR) [VIT] An Image is Worth 16x16 Words - Transformers for Image Recognition at Scale](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/11_Multi_Modal/2021%20%28Google%29%20%28ICLR%29%20%5BVIT%5D%20An%20Image%20is%20Worth%2016x16%20Words%20-%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf) <br />
+* [2021 (OpenAI) (ICML) [CLIP] Learning Transferable Visual Models From Natural Language Supervision](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/11_Multi_Modal/2021%20%28OpenAI%29%20%28ICML%29%20%5BCLIP%5D%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf) <br />
+
 ## Conference
 
 
