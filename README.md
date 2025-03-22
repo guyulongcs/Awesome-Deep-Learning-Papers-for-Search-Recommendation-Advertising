@@ -405,22 +405,11 @@
 * [2015 (ICLR) [Fitnets] Fitnets - Hints for thin deep nets](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/2015%20%28ICLR%29%20%5BFitnets%5D%20Fitnets%20-%20Hints%20for%20thin%20deep%20nets.pdf) <br />
 * [2018 (Alibaba) (AAAI) [Rocket] Rocket launching - A universal and efficient framework for training well-performing light net](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/2018%20%28Alibaba%29%20%28AAAI%29%20%5BRocket%5D%20Rocket%20launching%20-%20A%20universal%20and%20efficient%20framework%20for%20training%20well-performing%20light%20net.pdf) <br />
 * [2018 (KDD)[Ranking Distillation] Ranking distillation - Learning compact ranking models with high performance for recommender system](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/2018%20%28KDD%29%5BRanking%20Distillation%5D%20Ranking%20distillation%20-%20Learning%20compact%20ranking%20models%20with%20high%20performance%20for%20recommender%20system.pdf) <br />
-* [2019 (ICCV) [RCO] Knowledge Distillation via Route Constrained Optimization](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/2019%20%28ICCV%29%20%5BRCO%5D%20Knowledge%20Distillation%20via%20Route%20Constrained%20Optimization.pdf) <br />
 * [2020 (Alibaba) (KDD) *[Privileged Features Distillation] Privileged Features Distillation at Taobao Recommendations](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/2020%20%28Alibaba%29%20%28KDD%29%20%2A%5BPrivileged%20Features%20Distillation%5D%20Privileged%20Features%20Distillation%20at%20Taobao%20Recommendations.pdf) <br />
 
 #### Cross-domain
 * [2015 (Microsoft) (WWW) A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2015%20%28Microsoft%29%20%28WWW%29%20A%20Multi-View%20Deep%20Learning%20Approach%20for%20Cross%20Domain%20User%20Modeling%20in%20Recommendation%20Systems.pdf) <br />
-* [2016 (JMLR) Domain-Adversarial Training of Neural Networks](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2016%20%28JMLR%29%20Domain-Adversarial%20Training%20of%20Neural%20Networks.pdf) <br />
-* [2018 (CIKM) CoNet - Collaborative Cross Networks for Cross-Domain Recommendation](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2018%20%28CIKM%29%20CoNet%20-%20Collaborative%20Cross%20Networks%20for%20Cross-Domain%20Recommendation.pdf) <br />
-* [2019 (Alibaba) (CIKM) [WE-CAN] Cross-domain Attention Network with Wasserstein Regularizers for E-commerce Search](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2019%20%28Alibaba%29%20%28CIKM%29%20%5BWE-CAN%5D%20Cross-domain%20Attention%20Network%20with%20Wasserstein%20Regularizers%20for%20E-commerce%20Search.pdf) <br />
-* [2019 (Alibaba) (KDD) [MGTL] A minimax game for instance based selective transfer learning](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2019%20%28Alibaba%29%20%28KDD%29%20%5BMGTL%5D%20A%20minimax%20game%20for%20instance%20based%20selective%20transfer%20learning.pdf) <br />
 * [2019 (CIKM) DTCDR - A Framework for Dual-Target Cross-Domain Recommendation](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2019%20%28CIKM%29%20DTCDR%20-%20A%20Framework%20for%20Dual-Target%20Cross-Domain%20Recommendation.pdf) <br />
-* [2020 (Alibaba)(CIKM) [MiNet] MiNet - Mixed Interest Network for Cross-Domain Click-Through Rate Prediction](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2020%20%28Alibaba%29%28CIKM%29%20%5BMiNet%5D%20MiNet%20-%20Mixed%20Interest%20Network%20for%20Cross-Domain%20Click-Through%20Rate%20Prediction.pdf) <br />
-* [2020 (WSDM) DDTCDR - Deep Dual Transfer Cross Domain Recommendation](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Cross-domain/2020%20%28WSDM%29%20DDTCDR%20-%20Deep%20Dual%20Transfer%20Cross%20Domain%20Recommendation.pdf) <br />
-
-#### Meta-Learning
-* [2019 (Alibaba) (KDD) [s_2Meta] Sequential Scenario-Specific Meta Learner for Online Recommendation ](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Meta-Learning/2019%20%28Alibaba%29%20%28KDD%29%20%5Bs_2Meta%5D%20Sequential%20Scenario-Specific%20Meta%20Learner%20for%20Online%20Recommendation%20.pdf) <br />
-* [2020 (Kuaishou) (SIGIR) [SML]  How to Retrain Recommender System? A Sequential Meta-Learning Method](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Meta-Learning/2020%20%28Kuaishou%29%20%28SIGIR%29%20%5BSML%5D%20%20How%20to%20Retrain%20Recommender%20System%3F%20A%20Sequential%20Meta-Learning%20Method.pdf) <br />
 
 #### Transfer
 * [2018 (CVPR) Efficient parametrization of multi-domain deep neural networks](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/08_Transfer_Learning/Transfer/2018%20%28CVPR%29%20Efficient%20parametrization%20of%20multi-domain%20deep%20neural%20networks.pdf) <br />
@@ -441,6 +430,7 @@
 * [2020 (JD) (SIGIR) [NICF] Neural Interactive Collaborative Filtering](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/09_Reinforcement_Learning/2020%20%28JD%29%20%28SIGIR%29%20%5BNICF%5D%20Neural%20Interactive%20Collaborative%20Filtering.pdf) <br />
 
 ## Conference
+
 
 #### KDD2023
 * [2023 (Airbnb) (KDD) Optimizing Airbnb Search Journey with Multi-task Learning](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Conference/KDD2023/2023%20%28Airbnb%29%20%28KDD%29%20Optimizing%20Airbnb%20Search%20Journey%20with%20Multi-task%20Learning.pdf) <br />
@@ -471,6 +461,7 @@
 * [2024 (Tencent) (KDD) [STEM] Ads Recommendation in a Collapsed and Entangled World](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Conference/KDD2024/2024%20%28Tencent%29%20%28KDD%29%20%5BSTEM%5D%20Ads%20Recommendation%20in%20a%20Collapsed%20and%20Entangled%20World.pdf) <br />
 
 ## Corporation
+
 
 #### Google
 * [2014 (Google) (NIPS) [Knoledge Distillation] Distilling the Knowledge in a Neural Network](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/Corporation/Google/2014%20%28Google%29%20%28NIPS%29%20%5BKnoledge%20Distillation%5D%20Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf) <br />
