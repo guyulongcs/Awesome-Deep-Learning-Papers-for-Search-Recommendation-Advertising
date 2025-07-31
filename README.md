@@ -1,4 +1,4 @@
-## Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Ranking (CTR/CVR prediction), Post Ranking, Large Model (Generative Recommendation, LLM), Transfer learning, Reinforcement Learning and so on.
+## Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Pre-Ranking, Ranking (CTR/CVR prediction), Post Ranking, Relevance, LLM, Reinforcement Learning and so on.
 
 ## 00_Embedding
 * [2013 (Google) (NIPS) [Word2vec] Distributed Representations of Words and Phrases and their Compositionality](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/00_Embedding/2013%20%28Google%29%20%28NIPS%29%20%5BWord2vec%5D%20Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.pdf) <br />
